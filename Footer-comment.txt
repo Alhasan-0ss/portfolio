@@ -1,0 +1,5 @@
+
+//This is a className='footer'> will need it later for css.
+// In this div we will insert all icons that will links for my Github, Linkden.
+
+// This is a p tag that has a uniqe code sample to implmant and generate the commen info there.
