@@ -13,6 +13,7 @@ function Footer() {
          
         {/* In this div we will insert all icons that will links for my Github, Linkden. */}
       </div>
+      
       <p> &copy; 2023 Alhasan.com</p>
       {/* This is a p tag that has a uniqe code sample to implmant and generate the commen info there. */}
     </div>
